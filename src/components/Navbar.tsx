@@ -43,7 +43,7 @@ const Navbar = () => {
           </button>
 
           <a
-            href="#home"
+            
             onClick={closeMenu}
             className="flex items-center md:flex-1"
           >
